@@ -1,0 +1,10 @@
+*{ 
+  margin: 0; padding: 0;
+}
+
+header {
+  background: #abc;
+}
+header h1 img {
+  width: 150px;
+}
